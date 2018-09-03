@@ -7,6 +7,9 @@
   "license": "SEE LICENSE IN LICENSE",
   "repository": "thejameskyle/react-loadable",
   "files": [
+    ".babelrc",
+    ".flowconfig",
+    "src/**",
     "babel.js",
     "webpack.js",
     "lib/**"
